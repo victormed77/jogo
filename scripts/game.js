@@ -1,0 +1,3 @@
+// iniciar variaveis 
+
+let board = ['','','','','','','','','']
